@@ -1,0 +1,9 @@
+Changes
+lib/Plack/Middleware/Debug/Dancer/TemplateTimer.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/00-load.t
+t/manifest.t
+t/pod.t
